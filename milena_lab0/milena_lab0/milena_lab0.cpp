@@ -2,10 +2,16 @@
 //
 
 #include <iostream>
+using namespace std;
 
 int main()
 {
+    int x;
+    std::cin >> x;
+    std::cout << 10 / x << "\n";
     std::cout << "Hello World!\n";
+    
+
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
