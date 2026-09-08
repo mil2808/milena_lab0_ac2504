@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ivchenko_lab0/ivchenko_lab0.vcxproj" />
+</Solution>
